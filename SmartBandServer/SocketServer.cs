@@ -7,6 +7,7 @@ using System.Text;
 
 namespace SmartBandServer
 {
+    //additional changes
     class SocketServer
     {
         public static string Data;
