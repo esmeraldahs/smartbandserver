@@ -8,6 +8,8 @@ using System.Text;
 namespace SmartBandServer
 {
     //additional changes
+    //version 2 changes
+
     class SocketServer
     {
         public static string Data;
