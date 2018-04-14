@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\bin\Debug\SmartBandServer.exe.config
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\bin\Debug\SmartBandServer.exe
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\bin\Debug\SmartBandServer.pdb
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\obj\Debug\SmartBandServer.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\obj\Debug\SmartBandServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\obj\Debug\SmartBandServer.exe
+C:\Users\User\source\repos\SmartBandServer\SmartBandServer\obj\Debug\SmartBandServer.pdb
